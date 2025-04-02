@@ -7,8 +7,22 @@ The aim of the project is to create a job advertisement portal that is responsiv
 
 The portal will display job offers on the main page with the option to filter by location. Data security and privacy are of utmost importance, ensuring secure handling of user information and transaction details.
 
-### 1.2 Product Scope
+### 1.2 Product Scope and design
 This portal is designed to assist both job seekers and job creators. Job creators can post listings for jobs and set a price, while job seekers can browse job postings and select offers based on their preferences.
+
+The screenshot of the user login page below shows how visually uncluttered the user has to interact with when filling in their account details. The layout of the form itself is clean and allows for easy input of the user’s credentials. 
+![image](https://github.com/user-attachments/assets/86f54c53-d71f-4e75-828a-fab441b5e57b)
+
+![image](https://github.com/user-attachments/assets/2d375ce0-ce7b-4e53-9735-44358dcfe516)
+
+### User Interface and Dashboard
+The dashboard is the main view for users to search and see the jobs available. It is organised and modern, displaying the jobs in cards with company information, job titles, salaries, and required skills in a clean way. The interface has a search bar and enables subsequent filtering of the job listings based on keywords, job type, location, and the salary range for the position being advertised. The filtering system updates on real time user input.
+
+![image](https://github.com/user-attachments/assets/3c2be572-6f8d-4f10-9295-f83b1eecf22d)
+
+![image](https://github.com/user-attachments/assets/e2f22499-70b3-4daf-b9f2-c32293200fa2)
+
+![image](https://github.com/user-attachments/assets/b97eb2c9-c266-4694-bf2d-694a431c1bc2)
 
 Key features include:
 - **User-friendly interface**: Ensuring ease of use for a broad audience.
